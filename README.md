@@ -5,3 +5,4 @@ Social VR platform
 - Uses bitgilly to support decentralization
 - P2P sharing procedural 3D assets and worlds
 - Integration into advanced AI through Neureal
+- GearVR
